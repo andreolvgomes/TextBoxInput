@@ -1,0 +1,16 @@
+C:\Users\André.DESKTOP-0DUHK97\source\repos\TextBoxInput\TextBoxInput\bin\Debug\TextBoxInput.exe.config
+C:\Users\André.DESKTOP-0DUHK97\source\repos\TextBoxInput\TextBoxInput\bin\Debug\TextBoxInput.exe
+C:\Users\André.DESKTOP-0DUHK97\source\repos\TextBoxInput\TextBoxInput\bin\Debug\TextBoxInput.pdb
+C:\Users\André.DESKTOP-0DUHK97\source\repos\TextBoxInput\TextBoxInput\obj\Debug\TextBoxInput.csprojAssemblyReference.cache
+C:\Users\André.DESKTOP-0DUHK97\source\repos\TextBoxInput\TextBoxInput\obj\Debug\MainWindow.baml
+C:\Users\André.DESKTOP-0DUHK97\source\repos\TextBoxInput\TextBoxInput\obj\Debug\Value.baml
+C:\Users\André.DESKTOP-0DUHK97\source\repos\TextBoxInput\TextBoxInput\obj\Debug\MainWindow.g.cs
+C:\Users\André.DESKTOP-0DUHK97\source\repos\TextBoxInput\TextBoxInput\obj\Debug\Value.g.cs
+C:\Users\André.DESKTOP-0DUHK97\source\repos\TextBoxInput\TextBoxInput\obj\Debug\App.g.cs
+C:\Users\André.DESKTOP-0DUHK97\source\repos\TextBoxInput\TextBoxInput\obj\Debug\TextBoxInput_MarkupCompile.cache
+C:\Users\André.DESKTOP-0DUHK97\source\repos\TextBoxInput\TextBoxInput\obj\Debug\TextBoxInput.g.resources
+C:\Users\André.DESKTOP-0DUHK97\source\repos\TextBoxInput\TextBoxInput\obj\Debug\TextBoxInput.Properties.Resources.resources
+C:\Users\André.DESKTOP-0DUHK97\source\repos\TextBoxInput\TextBoxInput\obj\Debug\TextBoxInput.csproj.GenerateResource.cache
+C:\Users\André.DESKTOP-0DUHK97\source\repos\TextBoxInput\TextBoxInput\obj\Debug\TextBoxInput.csproj.CoreCompileInputs.cache
+C:\Users\André.DESKTOP-0DUHK97\source\repos\TextBoxInput\TextBoxInput\obj\Debug\TextBoxInput.exe
+C:\Users\André.DESKTOP-0DUHK97\source\repos\TextBoxInput\TextBoxInput\obj\Debug\TextBoxInput.pdb
